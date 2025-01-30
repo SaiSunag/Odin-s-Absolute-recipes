@@ -11,7 +11,111 @@ h1,h2 {
     line-height: 50px;
     font-size: 70px;
 }
+table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
 
+
+/*
+.menu1{
+    background-color: seagreen;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-transform: uppercase;
+    margin: 100px;
+
+  
+}
+.menu2{
+    background-color: royalblue ;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-transform: uppercase;
+    margin: 100px;
+    
+}
+.menu3{
+    background-color: rebeccapurple;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-transform: uppercase;
+    margin: 100px;
+
+}
+.menu4{
+    background-color: olivedrab;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-transform: uppercase;
+    margin: 100px;
+
+}
+.menu5{
+    background-color: yellowgreen;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-transform: uppercase;
+    margin: 100px;
+    
+
+
+   
+}
+
+/*
+
+.menu{
+    background-color: seagreen;
+    
+    
+}
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    display: inline;
+}
+
+/*.book1  {
+   background-color: seagreen;
+    color: rgb(0, 0, 0);
+    height: 50px;
+    width: 100px;
+    display: inline-block;
+    
+}
+.book2{
+    background-color: seagreen;
+    color: rgb(0, 0, 0);
+    height: 50px;
+    width: 100px;
+    display: inline-block;
+}
+.book3{
+    background-color: seagreen;
+    color: rgb(0, 0, 0);
+    height: 50px;
+    width: 100px;
+    display: inline-block;
+}
+.book4{
+    background-color: seagreen;
+    color: rgb(0, 0, 0);
+    height: 50px;
+    width: 100px;
+    display: inline-block;
+}
+.book5{
+    background-color: seagreen;
+    color: rgb(0, 0, 0);
+    height: 100px;
+    width: 100px;
+    display: inline-block;    
+}*/
+
+ 
 
 /* button{
     color: rgb(0, 0, 0);
@@ -27,6 +131,5 @@ h1,h2 {
     border-radius: 5px;*/
 }
 
-div {
-    background-color: blue;
+
 }
